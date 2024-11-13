@@ -148,7 +148,6 @@ nav {
 .about-me__info--container {
     display: flex;
     flex-direction: column;
-    max-width: 500px;
     align-items: center;
     text-align: center;
 }
@@ -419,7 +418,7 @@ footer {
 
 .footer__logo--popper {
     color: aliceblue;
-    right: o;
+    right: 0;
     top: 30px;
     font-weight: 700;
     opacity: 0;
